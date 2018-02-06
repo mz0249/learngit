@@ -5,3 +5,4 @@ Git tracks changes of files.
 diyicixiugai
 diercixiugai
 This is my first push dev.
+This is other people push dev.
